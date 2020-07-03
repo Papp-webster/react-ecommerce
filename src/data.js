@@ -19,7 +19,7 @@ export default {
       numReviews: 6,
     },
     {
-      name: "Dress",
+      name: "Sweater",
       category: "Pants",
       image: "/img/thin.jpg",
       price: 80,
@@ -28,7 +28,7 @@ export default {
       numReviews: 8,
     },
     {
-      name: "Dress",
+      name: "hard sweater",
       category: "Pants",
       image: "/img/sweeter.jpg",
       price: 80,
@@ -46,7 +46,7 @@ export default {
       numReviews: 8,
     },
     {
-      name: "Dress",
+      name: "light sweater",
       category: "Pants",
       image: "/img/side.jpg",
       price: 80,
